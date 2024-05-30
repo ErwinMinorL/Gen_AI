@@ -1,4 +1,4 @@
-# Gen_AI
+# Gen AI Project: Yelp Chatbot
 
 ## Author
 - Erwin Minor - 214601
@@ -26,7 +26,6 @@ The data is available at the following [link](https://www.yelp.com/dataset).
 ## Repository Structure
 
 ```
-│
 ├── README.md
 ├── code
 │   ├── Preprocess data.ipynb
